@@ -52,15 +52,17 @@ This repository showcases my practical projects in Power Electronics, PCB Design
 - MOSFET Switching
 - PWM Control
 - Gate Driver Design
-- LTspice Simulation
+- Kicad
 - EasyEDA
+- Altium
 
 ---
 
 ## Tools Used
 
 - EasyEDA
-- LTspice
+- Kicad
+- Altium
 - GitHub
 
 ---
